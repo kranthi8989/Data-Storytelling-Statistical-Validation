@@ -1,0 +1,111 @@
+#  Cafe Sales Data Analysis
+
+##  Project Overview
+
+This project was developed as part of my internship to analyze a Cafe Sales dataset using data analytics techniques. The objective is to transform raw sales data into meaningful insights through data cleaning, exploratory data analysis (EDA), dashboard creation, data storytelling, and statistical validation. The project helps identify customer purchasing behavior, sales trends, and business opportunities to support data-driven decision-making.
+
+---
+
+##  Objectives
+
+- Clean and preprocess the raw cafe sales dataset.
+- Perform Exploratory Data Analysis (EDA) to discover trends and patterns.
+- Create interactive dashboards for better visualization.
+- Generate business insights using data storytelling.
+- Validate findings using statistical analysis.
+- Provide recommendations to improve sales and business performance.
+
+---
+
+##  Dataset
+
+**Dataset Name:** Cleaned Cafe Sales Dataset
+
+The dataset contains transactional information related to cafe sales, including product details, quantities sold, prices, payment methods, and sales dates.
+
+---
+
+## 🛠️\ Tools & Technologies Used
+
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SciPy (Statistical Testing)
+- Microsoft PowerPoint
+- GitHub
+
+---
+
+##  Project Workflow
+
+### 1. Data Cleaning
+- Removed duplicate records
+- Handled missing values
+- Corrected inconsistent data formats
+- Converted data types
+- Prepared the dataset for analysis
+
+### 2. Exploratory Data Analysis (EDA)
+- Sales trend analysis
+- Product-wise performance
+- Category-wise revenue analysis
+- Payment method distribution
+- Customer purchasing patterns
+
+### 3. Dashboard Creation
+- Total Sales
+- Revenue Analysis
+- Product Performance
+- Monthly Sales Trends
+- Payment Method Distribution
+- Key Performance Indicators (KPIs)
+
+### 4. Data Storytelling
+Business insights were presented using visualizations and dashboards to communicate findings effectively.
+
+### 5. Statistical Validation
+Hypothesis testing was performed to validate analytical findings and ensure data-driven conclusions.
+
+---
+
+##  Key Insights
+
+- Identified best-selling products.
+- Analyzed sales trends over time.
+- Compared revenue across different product categories.
+- Evaluated customer payment preferences.
+- Discovered business opportunities through statistical analysis.
+
+---
+
+##  Business Recommendations
+
+- Increase stock of high-demand products.
+- Introduce promotions during low-sales periods.
+- Focus marketing efforts on underperforming products.
+- Encourage digital payment methods.
+- Use sales trends for inventory planning.
+
+---
+
+
+
+## Results
+
+The project successfully transformed raw cafe sales data into actionable business insights. Through data cleaning, visualization, dashboard development, and statistical validation, the analysis supports informed business decisions that can improve sales performance, inventory management, and customer satisfaction.
+
+---
+
+##  Learning Outcomes
+
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Dashboard Development
+- Statistical Analysis
+- Data Storytelling
+- Business Insight Generation
+- GitHub Project Documentation
